@@ -4,14 +4,18 @@
 ## Prerequisites
 * MATLAB 2022b
 	* MPT3 Toolbox - [Link](https://www.mpt3.org/ "Link") 
-
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+	* Robust Control Toolbox
+	* Optimization Toolbox
 
 
 ## Authors and Acknowledgment
 This is a collaborative work by Yuchao Li (ASU), Aren Karapetyan (ETH Zurich), Niklas Schmid (ETH Zurich), John Lygeros (ETH Zurich), Karl H. Johansson (KTH), and Jonas Mårtensson(KTH).
+
+This work was supported by the Swedish Foundation for Strategic Research, the Swedish Research Council, and the Knut and Alice Wallenberg Foundation. It is also supported by the Swiss National Science Foundation under NCCR Automation (grant agreement 51NF40_180545).
+
+## Usage
+
+Each example in the paper is coded in its homonymous MATLAB file.
 
 ## License
 The code is under the MIT License.
