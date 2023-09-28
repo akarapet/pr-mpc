@@ -178,8 +178,8 @@ end
 % generate surf map
 
 surf(x1,x2,(min(P_m{1},P_m{2})))
-xlabel('\boldmath$x_1$','interpreter','latex','FontSize', 15,'FontWeight','bold')
-ylabel('\boldmath$x_2$','interpreter','latex','FontSize', 15,'FontWeight','bold')
+xlabel('\boldmath$x(1)$','interpreter','latex','FontSize', 15,'FontWeight','bold')
+ylabel('\boldmath$x(2)$','interpreter','latex','FontSize', 15,'FontWeight','bold')
 zlabel('\boldmath$\bar{J}(x)$','interpreter','latex','FontSize', 15,'FontWeight','bold')
 
 
